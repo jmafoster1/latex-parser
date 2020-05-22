@@ -1,0 +1,75 @@
+/*! ../PEG-grammar/align-environment.pegjs */
+
+/*! ../PEG-grammar/latex.pegjs */
+
+/*! ./../webpack/buildin/global.js */
+
+/*! ./libs/align-environment-parser */
+
+/*! ./libs/macro-utils */
+
+/*! ./libs/parser */
+
+/*! ./macro-utils */
+
+/*! ./parser */
+
+/*! ./prettier-plugin-latex */
+
+/*! ./print-raw */
+
+/*! exports provided: createMatchers, parseAlignEnvironment */
+
+/*! exports provided: formatAlignedContent, languages, parsers, printers */
+
+/*! exports provided: parse, printRaw */
+
+/*! exports provided: parse, printRaw, printPrettier, prettierPluginLatex, Prettier, astParsers */
+
+/*! exports provided: printRaw */
+
+/*! exports provided: walkAst, trimRenderInfo, hasPreambleCode, splitXparseSignature, gobbleSingleArgument, match, attachMacroArgs, trim, splitOnMacro, unsplitOnMacro, cleanEnumerateBody, processEnvironment, tagStartAndEndNodes, trimEnvironmentContents, ReferenceMap, markAlignEnv, decorateArrayForPegjs */
+
+/*! no static exports found */
+
+/*! prettier/standalone */
+
+/*!****************************!*\
+        !*** ./src/libs/parser.js ***!
+        \****************************/
+
+/*!*****************************!*\
+        !*** ./src/latex-parser.js ***!
+        \*****************************/
+
+/*!*******************************!*\
+        !*** ./src/libs/print-raw.js ***!
+        \*******************************/
+
+/*!*********************************!*\
+        !*** ./src/libs/macro-utils.js ***!
+        \*********************************/
+
+/*!***********************************!*\
+        !*** (webpack)/buildin/global.js ***!
+        \***********************************/
+
+/*!*************************************!*\
+        !*** ./src/PEG-grammar/latex.pegjs ***!
+        \*************************************/
+
+/*!**************************************!*\
+        !*** ./src/prettier-plugin-latex.js ***!
+        \**************************************/
+
+/*!*********************************************!*\
+        !*** ./node_modules/prettier/standalone.js ***!
+        \*********************************************/
+
+/*!**********************************************!*\
+        !*** ./src/libs/align-environment-parser.js ***!
+        \**********************************************/
+
+/*!*************************************************!*\
+        !*** ./src/PEG-grammar/align-environment.pegjs ***!
+        \*************************************************/
